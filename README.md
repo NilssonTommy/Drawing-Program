@@ -3,10 +3,17 @@ OverviewThis is a simple Java-based drawing application that allows users to cre
 
 
 ✏️ Drawing shapes (Oval, Rectangle, Point)
+
 🎨 Color selection (Black, Red, Green)
+
 🔄 Undo last action
+
 💾 Save and load drawings using file serialization
+
 🛠️ Technologies UsedJava (Swing, AWT) for GUI
+
 MouseListeners for user input handling
+
 Serialization for saving/loading drawings
+
 LinkedList for managing drawn shapes
