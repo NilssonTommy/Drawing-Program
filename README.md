@@ -10,7 +10,7 @@ OverviewThis is a simple Java-based drawing application that allows users to cre
 
 💾 Save and load drawings using file serialization
 
-🛠️ Technologies UsedJava (Swing, AWT) for GUI
+🛠️ Technologies Swing for GUI
 
 MouseListeners for user input handling
 
